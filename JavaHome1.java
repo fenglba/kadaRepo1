@@ -10,7 +10,7 @@ import java.util.Scanner;
 public class JavaHome1 {
     public static void main(String[] args) {
         // TODO code application logic here
-        System.out.println("请输入1~7的整数：");
+        System.out.println("请输入1~7的整数：哈哈哈哈哈哈哈哈哈哈");
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         String str = test(n);
