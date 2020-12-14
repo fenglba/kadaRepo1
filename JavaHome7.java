@@ -12,7 +12,7 @@ public class JavaHome7 {
 //        a[3] = new long[]{3, 1, 3,6};
 
         long test = test(a);
-        System.out.println(test);
+        System.out.println("提示信息:"+test);
     }
 
     public static long test(long[][] data) {
